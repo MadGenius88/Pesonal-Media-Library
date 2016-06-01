@@ -141,7 +141,7 @@ $catalog[204] = [
         "Chris Sarandon",
         "Christopher Guest",
         "Wallace Shawn",
-        "AndrÃ© the Giant",
+        "André the Giant",
         "Fred Savage",
         "Peter Falk",
         "Billy Crystal"
