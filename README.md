@@ -20,9 +20,10 @@ This databases, I am creating a Personal Media Library application. I'll refacto
 * Mutlidimensional Arrays
 * Working with functions 
 * Third-Party Library using Objects and Validating Emails
-* Introducing Functions
+* Setting Error Message Variables 
 * Error Message Handling 
 * Intergration Validation Errors
+* Escaping Outputs 
 
 # Display
 * Forms Submission
